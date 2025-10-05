@@ -1,10 +1,10 @@
 title: Student Group Student Repo CSA
 description: "Group Student Repo"
-owner_name: Nikhil Maturi
-github_username: code259
+owner_name: Aditya Katre
+github_username: adikatre
 github_repo: "student"
 baseurl: "/student"
-url: "https://code259.github.io"
+url: "https://adikatre.github.io"
 future: true
 remote_theme: jekyll/minima
 minima:
